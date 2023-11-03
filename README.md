@@ -1,4 +1,4 @@
-<h1 align="center"> **House Price Prediction** </h1>
+<h1 align="center"> House Price Prediction </h1>
 
 
 ![image](https://github.com/nitinchandra1234/HOST-BEHAVIOR-ANALYSIS/assets/129900069/f71402ed-0842-4313-987f-aeb5bc771fb5)
